@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Sudharshan
 
-<!--
-**Sudharshan-3904/Sudharshan-3904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Currently Working On  
+- **Expense Tracker Android App**  
+  A Flutter-based mobile application to track daily expenses and manage budgets efficiently.   
+- **Worlde**  
+  A small recretaion of Wordle that based on Flask to be an with interactive and informative.    
+- **Basic Auto Clicker App**  
+  A local Python based auto clicker bot with basic functionalities.  
+- Exploring smaller, innovative projects to sharpen my skills.  
+
+---
+
+## 🛠️ Technical Knowledge  
+- **Programming Languages:**  
+  - Python  
+  - C Programming  
+- **Frameworks & Tools:**  
+  - Flutter  
+  - Flask  
+- **Web Development:**  
+  - HTML, CSS, JavaScript  
+- **Data Science & AI:**  
+  - Machine Learning / Deep Learning  
+  - Data Analysis  
+- **Databases:**  
+  - MySQL  
+- **IoT Development:**  
+  - Creating and implementing smart IoT projects using Arduino and Raspberry Pi  
+
+---
+
+## 🌱 Areas I'm Exploring  
+- **Virtual Reality (VR):** Building immersive experiences  
+- **Data Science-Based Automation:** Automating processes using advanced analytics and AI  
+- **Game Design with Unity:** Designing interactive games  
+
+---
+
+## 🎮 Interests  
+- Web Design & Development 🌐  
+- Driving 🚗  
+- Reading 📚  
+- Rubik's Cubing 🧩  
+- Event Management 🎉  
+- Gaming 🎮  
+
+---
+
+📫 Let's connect and collaborate! Feel free to explore my repositories and contribute to projects that pique your interest.  
+
+🌟 **Happy Coding!**  
