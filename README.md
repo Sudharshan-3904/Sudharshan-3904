@@ -5,8 +5,8 @@ Welcome to my GitHub profile! 🚀
 ---
 
 ## Socials:
-- LikedIn [LinkedIn]("[https://linkedin.com](https://www.linkedin.com/in/sudharshan-m-prabhu-384a421b9)")
-- Portfolio Website [Website]("https://sudharshan.in")
+- [LinkedIn](https://www.linkedin.com/in/sudharshan-m-prabhu-384a421b9 "Profile Page")
+- [Portfolio Website](https://sudharshan.in "Site")
 
 ---
 
