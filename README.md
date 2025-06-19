@@ -4,14 +4,9 @@ Welcome to my GitHub profile! 🚀
 
 ---
 
-## 💻 Currently Working On  
-- **Expense Tracker Android App**  
-  A Flutter-based mobile application to track daily expenses and manage budgets efficiently.   
-- **Worlde**  
-  A small recretaion of Wordle that based on Flask to be an with interactive and informative.    
-- **Basic Auto Clicker App**  
-  A local Python based auto clicker bot with basic functionalities.  
-- Exploring smaller, innovative projects to sharpen my skills.  
+## Socials:
+- [LinkedIn]("[https://linkedin.com](https://www.linkedin.com/in/sudharshan-m-prabhu-384a421b9)")
+- [Website]("https://sudharshan.in")
 
 ---
 
@@ -23,21 +18,25 @@ Welcome to my GitHub profile! 🚀
   - Flutter  
   - Flask  
 - **Web Development:**  
-  - HTML, CSS, JavaScript  
+  - HTML, CSS, JavaScript
+  - React
+  - TailwindCSS
 - **Data Science & AI:**  
   - Machine Learning / Deep Learning  
-  - Data Analysis  
+  - Data Analysis
+  - Data Visualization  
 - **Databases:**  
-  - MySQL  
+  - MySQL
+  - MondoDB
 - **IoT Development:**  
   - Creating and implementing smart IoT projects using Arduino and Raspberry Pi  
 
 ---
 
 ## 🌱 Areas I'm Exploring  
-- **Virtual Reality (VR):** Building immersive experiences  
-- **Data Science-Based Automation:** Automating processes using advanced analytics and AI  
-- **Game Design with Unity:** Designing interactive games  
+- **MCP integration with Local LLM's:** Building immersive experiences  
+- **Applied ESN's and EST's:** Practical use of Echo State Networks ( ESN's ) and Transformers ( EST's ) as aids to larger programs   
+- **Agentic AI:** Experimental exploration fo Agentic AI in day-to-day usecases  
 
 ---
 
