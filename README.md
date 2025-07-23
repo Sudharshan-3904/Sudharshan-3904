@@ -13,10 +13,14 @@ Welcome to my GitHub profile! 🚀
 ## 🛠️ Technical Knowledge  
 - **Programming Languages:**  
   - Python  
-  - C Programming  
+  - C Programming
+  - Java
 - **Frameworks & Tools:**  
   - Flutter  
-  - Flask  
+  - Flask
+  - Streamlit
+  - Firebase
+  - MongoDB
 - **Web Development:**  
   - HTML, CSS, JavaScript
   - React
@@ -36,7 +40,8 @@ Welcome to my GitHub profile! 🚀
 ## 🌱 Areas I'm Exploring  
 - **MCP integration with Local LLM's:** Building immersive experiences  
 - **Applied ESN's and EST's:** Practical use of Echo State Networks ( ESN's ) and Transformers ( EST's ) as aids to larger programs   
-- **Agentic AI:** Experimental exploration fo Agentic AI in day-to-day usecases  
+- **Agentic AI:** Experimental exploration fo Agentic AI in day-to-day usecases     
+- **Multi Model Agentic Systems:** Implementing separate  agentic pipelines to accomplish a singular unified goal
 
 ---
 
