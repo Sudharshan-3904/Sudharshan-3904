@@ -1,4 +1,5 @@
 <div align="center">
+    <img src="">
     <h1><a href="sudharshan.in" style="font-variant:small-caps; text-decoration:none;">Sudharshan M Prabhu</a></h1>
     <h3>Data Engineer | ML/DL Engineer | Tool Developer</h3>
 </div>
@@ -21,13 +22,14 @@ I'm a Software Developer specializing in building exceptional tools and projects
 
 ### Frameworks
 
-![MongoDB](https://img.shields.io/badge/MongoDB-3776AB?logo=MongoDB&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-3776AB?logo=Flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-3776AB?logo=Streamlit&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-3776AB?logo=Vite&logoColor=white)
-![React](https://img.shields.io/badge/React-3776AB?logo=React&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3776AB?logo=TailwindCSS&logoColor=white)
-![Next.JS](https://img.shields.io/badge/NextJS-3776AB?logo=NextJS&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-139351?logo=MongoDB&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0a7997?logo=MySQL&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-8a494e?logo=Streamlit&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-9962ff?logo=Vite&logoColor=white)
+![React](https://img.shields.io/badge/React-097ea4?logo=React&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-00bcff?logo=TailwindCSS&logoColor=white)
+![Next.JS](https://img.shields.io/badge/NextJS-000000?logo=NextJS&logoColor=white)
 
 ### Tools and Tech
 
