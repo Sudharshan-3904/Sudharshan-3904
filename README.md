@@ -1,59 +1,112 @@
 <div align="center">
-    <img src="">
-    <h1><a href="sudharshan.in" style="font-variant:small-caps; text-decoration:none;">Sudharshan M Prabhu</a></h1>
-    <h3>Data Engineer | ML/DL Engineer | Tool Developer</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey!+👋;I'm+Sudharshan+M+Prabhu;Data+Engineer+|+ML%2FDL+Engineer+|+Tool+Developer" alt="Typing SVG" />
+</div>
+
+<h1 align="center">Hi there, I'm Sudharshan M Prabhu! 🚀</h1>
+
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=sudharshan3904.sudharshan3904" alt="Profile Views" />
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a Software Developer specializing in building exceptional tools and projects. Currently, I'm focused on creating useful, interesting and small projects for experimental learning. I develop tools, recreate games, and experiment with vWarious tools, technologies, concepts, and methodologies to gain knowledge and experience.
+I'm a passionate **Software Developer** specializing in building exceptional tools and projects. Currently, I'm focused on creating useful, interesting, and small projects for experimental learning. I develop tools, recreate games, and experiment with various tools, technologies, concepts, and methodologies to gain knowledge and experience.
+
+- 🌱 I’m currently learning **Advanced AI/ML techniques** and **Cloud Technologies**
+- 💬 Ask me about **Data Engineering**, **Machine Learning**, **Web Development**
+- 📫 How to reach me: [sudharshan.in](https://sudharshan.in) or [LinkedIn](https://linkedin.com/in/sudharshan-prabhu)
+- ⚡ Fun fact: I love tinkering with Raspberry Pi and Arduino projects!
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+</p>
+
+### 🏗️ Frameworks & Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+</p>
+
+### 🛠️ Tools & Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/LM_Studio-000000?style=for-the-badge&logo=lm-studio&logoColor=white" alt="LM Studio" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+</p>
 
 ---
 
-## Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-3776AB?logo=Java&logoColor=white)
-![C Programming](https://img.shields.io/badge/C%20Programming-007396?logo=C&logoColor=white)
-
-### Frameworks
-
-![MongoDB](https://img.shields.io/badge/MongoDB-139351?logo=MongoDB&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0a7997?logo=MySQL&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-8a494e?logo=Streamlit&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-9962ff?logo=Vite&logoColor=white)
-![React](https://img.shields.io/badge/React-097ea4?logo=React&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-00bcff?logo=TailwindCSS&logoColor=white)
-![Next.JS](https://img.shields.io/badge/NextJS-000000?logo=NextJS&logoColor=white)
-
-### Tools and Tech
-
-![Git](https://img.shields.io/badge/Git-3776AB?logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-3776AB?logo=GitHub&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-3776AB?logo=LangChain&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-3776AB?logo=Tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power%20BI-3776AB?logo=PowerBI&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-3776AB?logo=Postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-3776AB?logo=Netlify&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-3776AB?logo=Ollama&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-3776AB?logo=Docker&logoColor=white)
-![LM Studio](https://img.shields.io/badge/LM%20Studio-3776AB?logo=LM%20Studio&logoColor=white)
-![Raspberry PI](https://img.shields.io/badge/Raspberry%20PI-3776AB?logo=Raspberry%20PI&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-3776AB?logo=Arduino&logoColor=white)
-
-### Fields of Interest
-
-![Data Science](https://img.shields.io/badge/Data%20Sciecne-3776AB?logo=dataScience&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-3776AB?logo=Data%20Visualization&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-3776AB?logo=Generative%20AI&logoColor=white)
-![LLM's](https://img.shields.io/badge/LLM's-3776AB?logo=LLM's&logoColor=white)
-![Deep learning](https://img.shields.io/badge/Deep%20Learning-3776AB?logo=Deep%20Learning&logoColor=white)
-![Machine learning](https://img.shields.io/badge/Machine%20Learning-3776AB?logo=Machine%20Learning&logoColor=white)
-![Internet of Things](https://img.shields.io/badge/Internet%20of%20Things-3776AB?logo=Internet%20of%20Things&logoColor=white)
+## 🎯 Fields of Interest
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Science-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJDMTMuMSAyIDE0IDIuOSAxNCA0VjE2QzE0IDE3LjEgMTMuMSAxOCA5LjUgMTJDOS41IDE4IDguNSAxNy4xIDguNSAxNlY0QzguNSAyLjkgOS41IDIgMTIgMlpNMTIgN0MxMS4xIDcgMTAuNSA3LjcgMTAuNSA4LMTAgOEMxMCA4LjkgMTAuOSA5IDExLjUgOUMxMi4xIDkgMTIuNSA4LjcgMTIuNSA4TDEyIDdaTTEyIDE0QzEyLjggMTQgMTMuNSAxMy4zIDEzLjUgMTJWMTJDMTMuNSAxMC43IDEyLjggMTAgMTIgMTBaIiBmaWxsPSIjZmZmZmZmIi8+Cjwvc3ZnPgo=" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Data_Visualization-4ECDC4?style=for-the-badge&logo=chart-line" alt="Data Visualization" />
+  <img src="https://img.shields.io/badge/Generative_AI-9C88FF?style=for-the-badge&logo=ai&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/LLMs-FF9F43?style=for-the-badge&logo=brain&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6B6B?style=for-the-badge&logo=neural-network" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Machine_Learning-4ECDC4?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/IoT-00D4FF?style=for-the-badge&logo=internet-of-things&logoColor=white" alt="IoT" />
+</p>
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudharshan3904&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharshan3904&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+Here are some of my favorite projects:
+
+- [**Project 1**](https://github.com/sudharshan3904/project1) - Brief description.
+- [**Project 2**](https://github.com/sudharshan3904/project2) - Brief description.
+- [**Project 3**](https://github.com/sudharshan3904/project3) - Brief description.
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sudharshan-prabhu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://sudharshan.in"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+---
+
+⭐️ From [Sudharshan M Prabhu](https://github.com/sudharshan3904)
